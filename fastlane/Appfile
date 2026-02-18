@@ -1,0 +1,2 @@
+package_name("com.example.flutter_jenkins_demo")
+json_key_file("playstore-key.json")
