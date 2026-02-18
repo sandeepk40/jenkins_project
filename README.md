@@ -14,3 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Flutter Jenkins CI/CD Demo
+
+This repo demonstrates:
+
+- Jenkins pipeline for Flutter
+- Test execution
+- APK + AAB build
+- Artifact archiving
+
+## Jenkins Requirements
+
+Flutter installed at:
+
